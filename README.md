@@ -1,0 +1,2 @@
+# ETicaret
+JavaScript Tutorial
