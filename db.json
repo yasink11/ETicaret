@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "name": "Domates",
+      "imageUrl": "https://adrossen.com/wp-content/uploads/2022/12/adrossen-katalog-fotolar_raptor-300x237.jpg"
+    },
+    {
+      "name": "Salatalık",
+      "imageUrl": "https://sezenmanav.com/wp-content/uploads/2021/04/salatalik.jpg"
+    },
+    {
+      "name": "Domates",
+      "imageUrl": "https://adrossen.com/wp-content/uploads/2022/12/adrossen-katalog-fotolar_raptor-300x237.jpg"
+    },
+    {
+      "name": "Salatalık",
+      "imageUrl": "https://sezenmanav.com/wp-content/uploads/2021/04/salatalik.jpg"
+    },
+    {
+      "name": "Domates",
+      "imageUrl": "https://adrossen.com/wp-content/uploads/2022/12/adrossen-katalog-fotolar_raptor-300x237.jpg"
+    },
+    {
+      "name": "Salatalık",
+      "imageUrl": "https://sezenmanav.com/wp-content/uploads/2021/04/salatalik.jpg"
+    }
+  ],
+  "baskets": []
+}
